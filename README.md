@@ -274,7 +274,7 @@ PENJELASAN: Ketika admin memilih menu 1. Lihat Jadwal sistem akan langsung menam
 
 # USER ADMIN (2. TAMBAH JADWAL)
 <img width="1479" height="906" alt="image" src="https://github.com/user-attachments/assets/f2535736-1c1a-4485-8c4f-862eff67bcd6" />
-PENJELASAN: Ketika admin memilih menu 2.Tambah jadwal admin akan diarahkan untuk menginput nama/id ruangan, kelas, tanggal, jam, dan kegiatan. setelah itu sistem akan menambahkan dan menampilkan daftar catatan baru.
+PENJELASAN: Ketika admin memilih menu 2. Tambah jadwal admin akan diarahkan untuk menginput nama/id ruangan, kelas, tanggal, jam, dan kegiatan. setelah itu sistem akan menambahkan dan menampilkan daftar catatan baru.
 
 # USER ADMIN (3. UBAH JADWAL)
 <img width="1423" height="875" alt="{8CCAB369-9291-483E-A784-265A8E26D23C}" src="https://github.com/user-attachments/assets/bbc7c081-ddc5-4fdd-9cdc-8d518764d279" />
