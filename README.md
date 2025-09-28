@@ -1,4 +1,4 @@
-# MINPRO-2
+# MINI PROJECT 2
 NAMA: Hanif Amelia Putri
 
 KELAS: B
