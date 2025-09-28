@@ -30,17 +30,21 @@ Jika kesempatan habis, program akan berhenti.
 
 4. Menu 1 (Lihat Catatan/Jadwal)
 
-Jika user admin ingin mengecek ruangan tertentu, sistem akan menampilkan seluruh daftar penggunaan ruangan laboratorium komputer.
+Jika user admin ingin mengecek ruangan, sistem akan menampilkan seluruh daftar penggunaan ruangan laboratorium komputer.
 
 Jika user mahasiswa ingin mengecek ruangan tertentu, sistem meminta input nama ruangan dan menampilkan daftar ruangan yang dicari. Jika tidak, sistem menampilkan seluruh daftar catatan/jadwal.
 
 5. Menu 2 (Tambah Catatan/Jadwal)- Admin dan Mahasiswa
 
-Pengguna menginput ruangan, kelas, tanggal, jam, dan nama kegiatan. Data akan disimpan oleh sistem dan catatan berhasil ditambahkan. Sistem akan menampilkan daftar catatan.
+Pengguna menginput ruangan, kelas, tanggal, jam, dan nama kegiatan. 
+Data akan disimpan oleh sistem dan catatan berhasil ditambahkan. 
+Sistem akan menampilkan daftar catatan.
 
 6. Menu 3 (Ubah Catatan/Jadwal) – hanya admin:
 
-Sistem menampilkan seluruh catatan. Admin memilih ruangan yang ingin diubah dan menginput data baru (ruangan, kelas, tanggal, jam, nama kegiatan). Data berhasil diubah oleh sistem.
+Sistem menampilkan seluruh catatan. 
+Admin memilih ruangan yang ingin diubah dan menginput data baru (ruangan, kelas, tanggal, jam, nama kegiatan). 
+Data berhasil diubah oleh sistem.
 
 7. Menu 4 (Hapus Catatan/Jadwal) – hanya admin:
 
