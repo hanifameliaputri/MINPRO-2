@@ -292,6 +292,8 @@ PENJELASAN: Ketika admin memilih menu 5. Keluar maka sistem akan selesai dan men
 # USER MAHASISWA (1. LIHAT JADWAL)
 <img width="1422" height="870" alt="image" src="https://github.com/user-attachments/assets/733b0293-9790-4f85-ba25-9c1e7d574599" />
 PENJELASAN: Ketika mahasiswa memilih menu 1. Lihat jadwal maka sistem akan menanyakan "Apakah Ingin cek ruangan tertentu?", jika iya maka pengguna diarahkan untuk menginput nama ruangan yang ingin dicek dan sistem akan menampilkan daftar ruangan ketika ruangan yang di input ada di daftar catatan. Jika pengguna memilih tidak sistem akan menampilkan seluruh daftar catatan ruangan.
+<img width="1362" height="489" alt="image" src="https://github.com/user-attachments/assets/ddcc3943-d3bb-4d5b-aa7a-7772d944448b" />
+PENJELASAN: Ketika mahasiswa mengecek ruangan yang tdiak ada didalam daftar catatan maka sistem akan menampilkan seperti diatas.
 
 # USER MAHASISWA (2. TAMBAH JADWAL)
 <img width="1400" height="863" alt="{A8FF2D1A-726B-4506-9153-C8C1D67C6F23}" src="https://github.com/user-attachments/assets/f3f57359-2cce-4928-b5a4-784d4e4ae639" />
