@@ -12,7 +12,8 @@ NIM: 2509116075
 Sistem ini adalah Sistem Catatan Penggunaan Lab Komputer yang memungkinkan pengguna untuk melihat, menambah, mengubah, dan menghapus jadwal penggunaan ruangan lab. Terdapat dua jenis pengguna yaitu Admin yang memiliki akses penuh, dan Mahasiswa yang hanya dapat melihat dan menambah jadwal. Sistem dilengkapi dengan login, pengecekan input, dan tampilan jadwal terstruktur untuk memudahkan pengelolaan penggunaan lab.
 
 # FLOWCHART
-<img width="2060" height="1732" alt="image" src="https://github.com/user-attachments/assets/7dbb04c1-66e4-44fe-9058-081099b7b731" />
+<img width="2060" height="1733" alt="image" src="https://github.com/user-attachments/assets/cb109f8b-22f4-4a08-ba12-f13cc9549fd2" />
+
 
 PENJELASAN:
 
