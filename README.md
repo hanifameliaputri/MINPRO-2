@@ -257,7 +257,7 @@ def menu(user):
         except EOFError:
             print("\nJangan tekan CTRL + Z ya!")
 
-# MAIN PROGRAM
+
 user_login = login()
 if user_login:
     menu(user_login)
